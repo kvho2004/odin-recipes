@@ -1,0 +1,16 @@
+* {
+    margin: 30px auto;
+    width: 80%;
+    border: 0px solid green;
+    padding: 10 px;
+    text-align: center;
+    box-sizing: content-box;
+}
+
+.btn {
+    text-decoration: none;
+    padding: 0.5rem;
+    border: 1px solid #333333;
+
+  }
+  
